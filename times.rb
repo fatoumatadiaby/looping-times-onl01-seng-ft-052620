@@ -1,5 +1,5 @@
-def using_times
-  puts "10.times.do #{Wingardium Leviosa}"
+10. times. do 
+  puts "Wingardium Leviosa"
 end
 
 
