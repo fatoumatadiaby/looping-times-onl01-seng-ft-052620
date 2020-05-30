@@ -1,4 +1,4 @@
-def using_times("Wingardium Leviosa")
+def using_times
   puts "10.times.do #{Wingardium Leviosa}"
 end
 
